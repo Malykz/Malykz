@@ -36,6 +36,7 @@
   <img alt="Alacritty" src="https://img.shields.io/badge/-Alacritty-black?style=flat-square&logo=alacritty&logoColor=white">
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
   <img alt="Laragon" src="https://img.shields.io/badge/-laragon-0E83CD?style=flat-square&logo=laragon&logoColor=white">
+  <img alt="Windows 11" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white">
 </p
 <br><br>
 <h3>Stats</h3>
