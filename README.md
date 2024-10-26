@@ -34,6 +34,7 @@
   <img alt="GSAP" src="https://img.shields.io/badge/-GSAP-green?style=flat-square&logo=greensock&logoColor=white">
   <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
   <img alt="Alacritty" src="https://img.shields.io/badge/-Alacritty-black?style=flat-square&logo=alacritty&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
 </p
 <br><br>
 <h3>Stats</h3>
