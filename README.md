@@ -22,11 +22,6 @@
   <img alt="VSCODE" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
   <img alt="BOOTSTRAP" src="https://img.shields.io/badge/-Bootsrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
   <img alt="UBUNTU" src="https://img.shields.io/badge/-Ubuntu-orange?style=flat-square&logo=ubuntu&logoColor=white">
-</p
-  
-<h4>Other Tools</h4>
-
-<p>
   <img alt="GIT" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img alt="GITHUB" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-red?style=flat-square&logo=npm&logoColor=white">
@@ -37,7 +32,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
   <img alt="GSAP" src="https://img.shields.io/badge/-GSAP-green?style=flat-square&logo=greensock&logoColor=white">
-</p>
+</p
 <br><br>
 <h3>Stats</h3>
 <p align=center>
