@@ -32,6 +32,8 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
   <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white">
   <img alt="GSAP" src="https://img.shields.io/badge/-GSAP-green?style=flat-square&logo=greensock&logoColor=white">
+  <img alt="Anaconda" src="https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white">
+  
 </p
 <br><br>
 <h3>Stats</h3>
